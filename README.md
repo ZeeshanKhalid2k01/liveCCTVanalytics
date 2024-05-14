@@ -6,4 +6,5 @@ get the video stream and get analytics of IN\OUT going cars
 2) python <pythonfilename.py>
 
 # Note
-the requirements are for <b>Python==3.7.5</br>, and its general enviroment, not specific for this project
+1) the requirements are for <b>Python==3.7.5</br>
+2) and its general enviroment, not specific for this project only
